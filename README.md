@@ -46,13 +46,14 @@ Make sure you have the following installed:
     ```
 
 2. Open your browser and go to `http://127.0.0.1:8000` to start using the application.
-   ![Home page}(./outputimages/
-
-   ![Topics List](./screenshots/topics.png)
+   
+   ![Home Page](./output_images/Home_Page.png)
 
 4. Sign up for an account, create topics, and add entries to track your learning progress.
 
-   ![Entries List](./screenshots/entries.png)
+   ![Registration](./output_images/Registration.png)
+   ![Topics](./output_images/Topics.png)
+   ![Entries](./output_images/Entries.png)
 
 ## 🧰 Technologies Used
 - **Django**: Python web framework
@@ -61,7 +62,7 @@ Make sure you have the following installed:
 
 ## 🤖 How It Works
 1. **User Authentication**: Users can register and log in to manage their own learning logs.
-2. **Topic and Entry Management**: Users can create, edit, and delete topics and entries.
+2. **Topic and Entry Management**: Users can create and edit topics and entries.
 3. **Frontend**: The interface is styled using Bootstrap for a clean and modern user experience.
 4. **Backend**: The application logic is handled by Django with models for Topics and Entries.
 
